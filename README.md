@@ -25,6 +25,9 @@ pip install -r requirements.txt
 
 ### Usage
 
+https://github.com/user-attachments/assets/e71a74d8-1673-48e1-b737-3f88d4c963de
+
+
 There are two ways to use Doraemon Agent:
 
 1. Using the Jupyter Notebook:
