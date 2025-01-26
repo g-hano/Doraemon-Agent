@@ -20,6 +20,8 @@ The agent leverages LangChain's capabilities to:
 ### Installation
 
 ```bash
+git clone https://github.com/g-hano/Doraemon-Agent.git
+cd Doraemon-Agent
 pip install -r requirements.txt
 ```
 
